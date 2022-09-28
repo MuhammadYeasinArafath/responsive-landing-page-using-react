@@ -21,7 +21,7 @@ const Home = () => {
                     <a href="#">Service</a>
                     <a href="#">Contact</a>
                 </div>
-                <label for="check">
+                <label for="check" className="menu-btn">
                     <FiMenu className='FiMenu'></FiMenu>
                     <MdClose className='MdClose'></MdClose>
                 </label>
